@@ -24,7 +24,7 @@ $ tail -f nohup.out
 
 
 
-### Updating. Stop the running processes for your node, baker, endorser and accuser:
+### updating to new version. stop the running processes for your node, baker, endorser and accuser:
 $ cd ./tezos
 
 $ eval $(opam env)
