@@ -26,6 +26,9 @@ $ tail -f nohup.out
 
 ### Updating. Stop the running processes for your node, baker, endorser and accuser:
 $ cd ./tezos
+
 $ eval $(opam env)
+
 $ git pull
+
 $ make
