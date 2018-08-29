@@ -4,7 +4,9 @@
 
 ### create new tezos user
 $adduser tezos
+
 $adduser tezos sudo
+
 $su - tezos
 
 ### install tezos
