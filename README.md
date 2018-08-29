@@ -1,5 +1,7 @@
 # tezos node installation script for betanet
 
+
+
 # create new tezos user
 $ adduser tezos
 $ adduser tezos sudo
