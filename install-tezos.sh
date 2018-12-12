@@ -30,7 +30,7 @@ $PREFIX/opam init -y --compiler=4.06.1
 eval $(opam env)
 
 #clone the tezos gitlab repo
-git clone -b betanet https://gitlab.com/tezos/tezos.git & wait
+git clone -b mainnet https://gitlab.com/tezos/tezos.git & wait
 { sleep 5; } & wait
 
 cd tezos
